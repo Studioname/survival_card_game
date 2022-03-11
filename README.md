@@ -27,6 +27,10 @@ Sixth point in corruption does something bad
 
 Player is presented with story cards, they have to pursue the story cards and close out the investigation in order to win
 
+Card text should explain what the card does
+
+Fluff is at the bottom of each card [although not complete]
+
 Game not fully functional, but some of it is there
 
 One of my first projects, code unavailable
